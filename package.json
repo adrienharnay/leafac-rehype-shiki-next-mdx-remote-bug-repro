@@ -1,0 +1,23 @@
+{
+  "name": "leafac-rehype-shiki-next-mdx-remote-bug-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adrienharnay/leafac-rehype-shiki-next-mdx-remote-bug-repro.git",
+  "author": "Adrien HARNAY <adrien@harnay.me>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@leafac/rehype-shiki": "1.3.1",
+    "@types/react": "17.0.30",
+    "@types/react-dom": "17.0.9",
+    "next": "11.1.2",
+    "next-mdx-remote": "3.0.6",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "shiki": "0.9.12",
+    "typescript": "4.4.2"
+  },
+  "scripts": {
+    "dev": "next dev"
+  }
+}
